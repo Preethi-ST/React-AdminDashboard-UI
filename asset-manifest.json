@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-AdminDashboard-UI/static/css/main.4233cb7e.chunk.css",
+    "main.js": "/React-AdminDashboard-UI/static/js/main.9a305a35.chunk.js",
+    "main.js.map": "/React-AdminDashboard-UI/static/js/main.9a305a35.chunk.js.map",
+    "runtime-main.js": "/React-AdminDashboard-UI/static/js/runtime-main.3f503632.js",
+    "runtime-main.js.map": "/React-AdminDashboard-UI/static/js/runtime-main.3f503632.js.map",
+    "static/js/2.4b133c7c.chunk.js": "/React-AdminDashboard-UI/static/js/2.4b133c7c.chunk.js",
+    "static/js/2.4b133c7c.chunk.js.map": "/React-AdminDashboard-UI/static/js/2.4b133c7c.chunk.js.map",
+    "static/js/3.cf5c39ca.chunk.js": "/React-AdminDashboard-UI/static/js/3.cf5c39ca.chunk.js",
+    "static/js/3.cf5c39ca.chunk.js.map": "/React-AdminDashboard-UI/static/js/3.cf5c39ca.chunk.js.map",
+    "index.html": "/React-AdminDashboard-UI/index.html",
+    "static/css/main.4233cb7e.chunk.css.map": "/React-AdminDashboard-UI/static/css/main.4233cb7e.chunk.css.map",
+    "static/js/2.4b133c7c.chunk.js.LICENSE.txt": "/React-AdminDashboard-UI/static/js/2.4b133c7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f503632.js",
+    "static/js/2.4b133c7c.chunk.js",
+    "static/css/main.4233cb7e.chunk.css",
+    "static/js/main.9a305a35.chunk.js"
+  ]
+}
